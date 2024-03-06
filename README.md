@@ -1,5 +1,4 @@
-# NLP_CourseWithTransformers
-online course with Teacher Edress 
-تكتبي الشرح والتعديلات 
-1)sentiment anlysis 
-2)
+# NLP with Transformers online Course
+
+Welcome to the NLP with Transformers course,
+ taught by Edress!
