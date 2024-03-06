@@ -22,10 +22,10 @@ This online course provides a comprehensive introduction to Natural Language Pro
 6. Advanced NLP Applications with Transformers
 7. Projectd Work and Hands-on Exercises
 ## Trainees
-. [Maha](https://github.com/MahaAlsorimi)
-. [Hajar](https://github.com/hajar24-h)
-. [Asma](https://github.com/Asmamorad)
-. [Asrar](https://github.com/asrar1-qaseem)
-. [Haseeba](https://github.com/HaseebaAlhaddi)
-. [Roaa](https://github.com/2roei22)
+. [Maha](https://github.com/MahaAlsorimi)<br>
+. [Hajar](https://github.com/hajar24-h)<br>
+. [Asma](https://github.com/Asmamorad)<br>
+. [Asrar](https://github.com/asrar1-qaseem)<br>
+. [Haseeba](https://github.com/HaseebaAlhaddi)<br>
+. [Roaa](https://github.com/2roei22)<br>
 . [Namah](https://github.com/namahal)
